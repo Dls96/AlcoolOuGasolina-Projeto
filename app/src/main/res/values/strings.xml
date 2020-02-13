@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Calcular Combustivel</string>
+    <string name="txtview1">Qual é mais rentável ?</string>
+    <string name="txtview2">Gasolina ou Álcool ?</string>
+    <string name="txtview3">Descubra agora...</string>
+    <string name="txtresultado">Isto aqui é um Teste</string>
+    <string name="hint_gasolina">Preço da Gasolina EX:3.68</string>
+    <string name="hint_alcool">Preço do álcool EX:2.74</string>
+    <string name="btn_calcule">Calcule</string>
+</resources>
